@@ -1,0 +1,726 @@
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.9.3)  7 NOV 2020 18:52
+ restricted system commands enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+Lua module: luaotfload-main 2020-05-06 3.14 luaotfload entry point
+Lua module: luaotfload-init 2020-05-06 3.14 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2020-05-01 2.71 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-05-01 2.71 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2020-05-06 3.14 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-05-06 3.14 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-05-06 3.14 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is "C:/Users/renan/AppData/Local/MiKTeX
+/luatex-cache/generic-dev/names".
+luaotfload | init : Loading fontloader "fontloader-2020-05-06.lua" from kpse-res
+olved path "C:/Program Files/MiKTeX/tex/luatex/luaotfload/fontloader-2020-05-06.
+lua".
+Lua-only attribute luaotfload@noligature = 1
+Lua-only attribute luaotfload@syllabe = 2
+luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
+Lua module: luaotfload-fallback 2020-05-06 3.14 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-05-06 3.14 luaotfload submodule / multis
+cript
+Lua module: luaotfload-script 2020-05-06 3.14 luaotfload submodule / Script help
+ers
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2020-05-06 3.14 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2020-05-06 3.14 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-05-06 3.14 luaotfload submodule / Unicode he
+lpers
+Lua module: luaotfload-colors 2020-05-06 3.14 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 3
+Lua module: luaotfload-resolvers 2020-05-06 3.14 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is "C:/Users/renan/AppData/Local/MiKTeX
+/luatex-cache/generic-dev/names".
+Lua module: luaotfload-features 2020-05-06 3.14 luaotfload submodule / features
+Lua module: luaotfload-harf-define 2020-05-06 3.14 luaotfload submodule / databa
+se
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Lua module: luaotfload-harf-plug 2020-05-06 3.14 luaotfload submodule / database
+Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
+.
+Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
+Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
+Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
+Lua module: luaotfload-letterspace 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-embolden 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-notdef 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-suppress 2020-05-06 3.14 luaotfload submodule / suppress
+Lua module: luaotfload-szss 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2020-05-06 3.14 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicod
+e
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2020-06-18>
+("C:/Program Files/MiKTeX/tex/latex/base/article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:/Program Files/MiKTeX/tex/latex/base/size10.clo"
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/renan/AppData/Local/M
+iKTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:/Program Files/MiKTeX/tex/latex/geometry/geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:/Program Files/MiKTeX/tex/latex/graphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:/Program Files/MiKTeX/tex/generic/iftex/ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:/Program Files/MiKTeX/tex/generic/iftex/iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count171
+\Gm@cntv=\count172
+\c@Gm@tempcnt=\count173
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+
+("C:/Program Files/MiKTeX/tex/latex/geometry/geometry.cfg"))
+("C:/Program Files/MiKTeX/tex/latex/amsmath/amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:/Program Files/MiKTeX/tex/latex/amsmath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:/Program Files/MiKTeX/tex/latex/amsmath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen143
+))
+("C:/Program Files/MiKTeX/tex/latex/amsmath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen144
+)
+("C:/Program Files/MiKTeX/tex/latex/amsmath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count174
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count175
+\leftroot@=\count176
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count177
+\DOTSCASE@=\count178
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen145
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count179
+\c@MaxMatrixCols=\count180
+\dotsspace@=\muskip16
+\c@parentequation=\count181
+\dspbrk@lvl=\count182
+\tag@help=\toks18
+\row@=\count183
+\column@=\count184
+\maxfields@=\count185
+\andhelp@=\toks19
+\eqnshift@=\dimen146
+\alignsep@=\dimen147
+\tagshift@=\dimen148
+\tagwidth@=\dimen149
+\totwidth@=\dimen150
+\lineht@=\dimen151
+\@envbody=\toks20
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:/Program Files/MiKTeX/tex/latex/amsfonts/amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:/Program Files/MiKTeX/tex/latex/amsfonts/amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:/Program Files/MiKTeX/tex/latex/base/inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) ("C:/Program Files/MiKTeX/tex/latex/base/fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
+.
+
+("C:/Program Files/MiKTeX/tex/latex/lm/t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+("C:/Program Files/MiKTeX/tex/generic/babel/babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+
+("C:/Program Files/MiKTeX/tex/generic/babel/babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+
+("C:/Program Files/MiKTeX/tex/generic/babel/luababel.def"
+\bbl@readstream=\read2
+\l@afrikaans=\language2
+Package babel Info: Non-standard hyphenation setup on input line 117.
+\l@ancientgreek=\language3
+\l@armenian=\language4
+\l@assamese=\language5
+\l@basque=\language6
+\l@belarusian=\language7
+\l@bengali=\language8
+\l@bokmal=\language9
+\l@bulgarian=\language10
+\l@catalan=\language11
+\l@churchslavonic=\language12
+\l@classiclatin=\language13
+\l@coptic=\language14
+\l@croatian=\language15
+\l@czech=\language16
+\l@danish=\language17
+\l@dutch=\language18
+\l@esperanto=\language19
+\l@estonian=\language20
+\l@ethiopic=\language21
+\l@finnish=\language22
+\l@french=\language23
+\l@friulan=\language24
+\l@galician=\language25
+\l@georgian=\language26
+\l@german=\language27
+\l@greek=\language28
+\l@gujarati=\language29
+\l@hindi=\language30
+\l@hungarian=\language31
+\l@icelandic=\language32
+\l@indonesian=\language33
+\l@interlingua=\language34
+\l@irish=\language35
+\l@italian=\language36
+\l@kannada=\language37
+\l@kurmanji=\language38
+\l@latin=\language39
+\l@latvian=\language40
+\l@lithuanian=\language41
+\l@liturgicallatin=\language42
+\l@macedonian=\language43
+\l@malayalam=\language44
+\l@marathi=\language45
+\l@mongolian=\language46
+\l@mongolianlmc=\language47
+\l@monogreek=\language48
+\l@ngerman=\language49
+\l@nynorsk=\language50
+\l@occitan=\language51
+\l@oriya=\language52
+\l@pali=\language53
+\l@panjabi=\language54
+\l@piedmontese=\language55
+\l@polish=\language56
+\l@portuguese=\language57
+\l@romanian=\language58
+\l@romansh=\language59
+\l@russian=\language60
+\l@sanskrit=\language61
+\l@serbian=\language62
+\l@serbianc=\language63
+\l@slovak=\language64
+\l@slovenian=\language65
+\l@spanish=\language66
+\l@swedish=\language67
+\l@swissgerman=\language68
+\l@tamil=\language69
+\l@telugu=\language70
+\l@thai=\language71
+\l@turkish=\language72
+\l@turkmen=\language73
+\l@ukenglish=\language74
+\l@ukrainian=\language75
+\l@uppersorbian=\language76
+\l@usenglishmax=\language77
+\l@welsh=\language78
+\babelcatcodetablenum=\catcodetable5
+\bbl@pattcodes=\catcodetable6
+)
+\babel@savecnt=\count186
+\U@D=\dimen152
+\l@babelnohyphens=\language79
+
+("C:/Program Files/MiKTeX/tex/generic/babel/luababel.def"
+\bbl@attr@locale=\attribute4
+))
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:/Program Files/MiKTeX/tex/latex/arabi/bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of 
+babel
+)
+("C:/Program Files/MiKTeX/tex/latex/babel-portuges/brazilian.ldf"
+Language: portuges 2020/05/04 v1.2r Portuguese support from the babel system
+Package babel Info: \l@brazilian = using hyphenrules for portuguese
+(babel)             (\language57) on input line 111.
+Package babel Info: Making " an active character on input line 143.
+
+("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/loadhyph/loadhyph-pt.tex"
+UTF-8 Portuguese hyphenation patterns
+("C:/Program Files/MiKTeX/tex/generic/hyph-utf8/patterns/tex/hyph-pt.tex"))))
+("C:/Program Files/MiKTeX/tex/latex/graphics/graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:/Program Files/MiKTeX/tex/latex/graphics/graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:/Program Files/MiKTeX/tex/latex/graphics/trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:/Program Files/MiKTeX/tex/latex/graphics-cfg/graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 105.
+
+("C:/Program Files/MiKTeX/tex/latex/graphics-def/luatex.def"
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+("C:/Program Files/MiKTeX/tex/latex/float/float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count187
+\float@exts=\toks24
+\float@box=\box47
+\@float@everytoks=\toks25
+\@floatcapt=\box48
+)
+("C:/Program Files/MiKTeX/tex/latex/pdfpages/pdfpages.sty"
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+("C:/Program Files/MiKTeX/tex/latex/base/ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:/Program Files/MiKTeX/tex/latex/tools/calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count188
+\calc@Bcount=\count189
+\calc@Adimen=\dimen155
+\calc@Bdimen=\dimen156
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count190
+\calc@Cskip=\skip54
+)
+("C:/Program Files/MiKTeX/tex/latex/eso-pic/eso-pic.sty"
+Package: eso-pic 2020/09/27 v2.0i eso-pic (RN)
+
+("C:/Program Files/MiKTeX/tex/generic/atbegshi/atbegshi.sty"
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+("C:/Program Files/MiKTeX/tex/generic/infwarerr/infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:/Program Files/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+))
+\ESO@tempdima=\dimen157
+\ESO@tempdimb=\dimen158
+
+("C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:/Program Files/MiKTeX/tex/latex/graphics-cfg/color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen159
+\AM@pageheight=\dimen160
+
+("C:/Program Files/MiKTeX/tex/latex/pdfpages/ppluatex.def"
+File: ppluatex.def 2020/01/28 v0.5q Pdfpages driver for LuaTeX (AM)
+)
+\AM@pagebox=\box49
+\AM@global@opts=\toks26
+\AM@pagecnt=\count191
+\AM@toc@title=\toks27
+\c@AM@survey=\count192
+\AM@templatesizebox=\box50
+)
+("C:/Program Files/MiKTeX/tex/latex/l3backend/l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count193
+\l__pdf_internal_box=\box51
+)
+(./main.aux)
+\openout1 = main.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 13
+.
+ ("C:/Program Files/MiKTeX/tex/latex/base/ts1cmr.fd"
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=759.6886pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:/Program Files/MiKTeX/tex/context/base/mkii/supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen161
+\scratchbox=\box52
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen162
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks29
+) ("C:/Program Files/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
+5.
+)
+\AtBeginShipoutBox=\box53
+
+("C:/Program Files/MiKTeX/tex/latex/pdflscape/pdflscape.sty"
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+("C:/Program Files/MiKTeX/tex/latex/graphics/lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+<titlepage.pdf, id=1, 597.23125pt x 845.1575pt>
+File: titlepage.pdf Graphic file (type pdf)
+<use titlepage.pdf>
+Package luatex.def Info: titlepage.pdf  used on input line 14.
+(luatex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: titlepage.pdf Graphic file (type pdf)
+<use titlepage.pdf>
+Package luatex.def Info: titlepage.pdf  used on input line 14.
+(luatex.def)             Requested size: 597.22978pt x 845.15544pt.
+<titlepage.pdf, id=4, page=1, 597.23125pt x 845.1575pt>
+File: titlepage.pdf Graphic file (type pdf)
+<use titlepage.pdf, page 1>
+Package luatex.def Info: titlepage.pdf , page1 used on input line 14.
+(luatex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: titlepage.pdf Graphic file (type pdf)
+<use titlepage.pdf, page 1>
+Package luatex.def Info: titlepage.pdf , page1 used on input line 14.
+(luatex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: titlepage.pdf Graphic file (type pdf)
+<use titlepage.pdf, page 1>
+Package luatex.def Info: titlepage.pdf , page1 used on input line 14.
+(luatex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: titlepage.pdf Graphic file (type pdf)
+<use titlepage.pdf, page 1>
+Package luatex.def Info: titlepage.pdf , page1 used on input line 14.
+(luatex.def)             Requested size: 597.25711pt x 845.19412pt.
+File: titlepage.pdf Graphic file (type pdf)
+<use titlepage.pdf, page 1>
+Package luatex.def Info: titlepage.pdf , page1 used on input line 14.
+(luatex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [1
+
+<./titlepage.pdf>]
+<../images/default.pdf, id=47, 1140.50027pt x 544.27277pt>
+File: ../images/default.pdf Graphic file (type pdf)
+<use ../images/default.pdf>
+Package luatex.def Info: ../images/default.pdf  used on input line 17.
+(luatex.def)             Requested size: 919.02109pt x 438.5996pt.
+
+Overfull \hbox (221.92856pt too wide) in paragraph at lines 17--18
+[] [] 
+ []
+
+<../images/rgb432.pdf, id=48, 1140.50027pt x 544.27277pt>
+File: ../images/rgb432.pdf Graphic file (type pdf)
+<use ../images/rgb432.pdf>
+Package luatex.def Info: ../images/rgb432.pdf  used on input line 23.
+(luatex.def)             Requested size: 483.69687pt x 230.83533pt.
+<../images/rgb564.pdf, id=49, 1140.50027pt x 544.27277pt>
+File: ../images/rgb564.pdf Graphic file (type pdf)
+<use ../images/rgb564.pdf>
+Package luatex.def Info: ../images/rgb564.pdf  used on input line 24.
+(luatex.def)             Requested size: 483.69687pt x 230.83533pt.
+<../images/classification.pdf, id=50, 1140.50027pt x 544.27277pt>
+File: ../images/classification.pdf Graphic file (type pdf)
+<use ../images/classification.pdf>
+Package luatex.def Info: ../images/classification.pdf  used on input line 25.
+(luatex.def)             Requested size: 483.69687pt x 230.83533pt.
+[2{C:/Users/renan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}<../images/defau
+lt.pdf>]
+Overfull \vbox (4.46445pt too high) has occurred while \output is active []
+
+
+[3<../images/rgb432.pdf><../images/rgb564.pdf><../images/classification.pdf>]
+<../images/print_432.png, id=235, 1927.2pt x 1084.05pt>
+File: ../images/print_432.png Graphic file (type png)
+<use ../images/print_432.png>
+Package luatex.def Info: ../images/print_432.png  used on input line 31.
+(luatex.def)             Requested size: 483.69687pt x 272.07048pt.
+<../images/print_564.png, id=236, 1927.2pt x 1084.05pt>
+File: ../images/print_564.png Graphic file (type png)
+<use ../images/print_564.png>
+Package luatex.def Info: ../images/print_564.png  used on input line 36.
+(luatex.def)             Requested size: 483.69687pt x 272.07048pt.
+<../images/print_classification.png, id=237, 1927.2pt x 1084.05pt>
+File: ../images/print_classification.png Graphic file (type png)
+<use ../images/print_classification.png>
+Package luatex.def Info: ../images/print_classification.png  used on input line 
+41.
+(luatex.def)             Requested size: 483.69687pt x 272.07048pt.
+
+[4<../images/print_432.png><../images/print_564.png>] [5<../images/print_classif
+ication.png>]
+<../images/pivosVeg/432.png, id=247, 1927.2pt x 1084.05pt>
+File: ../images/pivosVeg/432.png Graphic file (type png)
+<use ../images/pivosVeg/432.png>
+Package luatex.def Info: ../images/pivosVeg/432.png  used on input line 50.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/pivosVeg/564.png, id=248, 1927.2pt x 1084.05pt>
+File: ../images/pivosVeg/564.png Graphic file (type png)
+<use ../images/pivosVeg/564.png>
+Package luatex.def Info: ../images/pivosVeg/564.png  used on input line 51.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/pivosVeg/class.png, id=249, 1927.2pt x 1084.05pt>
+File: ../images/pivosVeg/class.png Graphic file (type png)
+<use ../images/pivosVeg/class.png>
+Package luatex.def Info: ../images/pivosVeg/class.png  used on input line 52.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/agua/432.png, id=250, 1927.2pt x 1084.05pt>
+File: ../images/agua/432.png Graphic file (type png)
+<use ../images/agua/432.png>
+Package luatex.def Info: ../images/agua/432.png  used on input line 57.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/agua/564.png, id=251, 1927.2pt x 1084.05pt>
+File: ../images/agua/564.png Graphic file (type png)
+<use ../images/agua/564.png>
+Package luatex.def Info: ../images/agua/564.png  used on input line 58.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/agua/class.png, id=252, 1927.2pt x 1084.05pt>
+File: ../images/agua/class.png Graphic file (type png)
+<use ../images/agua/class.png>
+Package luatex.def Info: ../images/agua/class.png  used on input line 59.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/soloSecoExp/432.png, id=253, 1927.2pt x 1084.05pt>
+File: ../images/soloSecoExp/432.png Graphic file (type png)
+<use ../images/soloSecoExp/432.png>
+Package luatex.def Info: ../images/soloSecoExp/432.png  used on input line 64.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/soloSecoExp/564.png, id=254, 1927.2pt x 1084.05pt>
+File: ../images/soloSecoExp/564.png Graphic file (type png)
+<use ../images/soloSecoExp/564.png>
+Package luatex.def Info: ../images/soloSecoExp/564.png  used on input line 65.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/soloSecoExp/class.png, id=255, 1927.2pt x 1084.05pt>
+File: ../images/soloSecoExp/class.png Graphic file (type png)
+<use ../images/soloSecoExp/class.png>
+Package luatex.def Info: ../images/soloSecoExp/class.png  used on input line 66.
+
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/soloUmidoExp/432.png, id=256, 1927.2pt x 1084.05pt>
+File: ../images/soloUmidoExp/432.png Graphic file (type png)
+<use ../images/soloUmidoExp/432.png>
+Package luatex.def Info: ../images/soloUmidoExp/432.png  used on input line 71.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/soloUmidoExp/564.png, id=257, 1927.2pt x 1084.05pt>
+File: ../images/soloUmidoExp/564.png Graphic file (type png)
+<use ../images/soloUmidoExp/564.png>
+Package luatex.def Info: ../images/soloUmidoExp/564.png  used on input line 72.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/soloUmidoExp/class.png, id=258, 1927.2pt x 1084.05pt>
+File: ../images/soloUmidoExp/class.png Graphic file (type png)
+<use ../images/soloUmidoExp/class.png>
+Package luatex.def Info: ../images/soloUmidoExp/class.png  used on input line 73
+.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/areaUrbana/432.png, id=259, 1927.2pt x 1084.05pt>
+File: ../images/areaUrbana/432.png Graphic file (type png)
+<use ../images/areaUrbana/432.png>
+Package luatex.def Info: ../images/areaUrbana/432.png  used on input line 78.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/areaUrbana/564.png, id=260, 1927.2pt x 1084.05pt>
+File: ../images/areaUrbana/564.png Graphic file (type png)
+<use ../images/areaUrbana/564.png>
+Package luatex.def Info: ../images/areaUrbana/564.png  used on input line 79.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/areaUrbana/class.png, id=261, 1927.2pt x 1084.05pt>
+File: ../images/areaUrbana/class.png Graphic file (type png)
+<use ../images/areaUrbana/class.png>
+Package luatex.def Info: ../images/areaUrbana/class.png  used on input line 80.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/florestaPlantada/432.png, id=262, 1927.2pt x 1084.05pt>
+File: ../images/florestaPlantada/432.png Graphic file (type png)
+<use ../images/florestaPlantada/432.png>
+Package luatex.def Info: ../images/florestaPlantada/432.png  used on input line 
+85.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/florestaPlantada/564.png, id=263, 1927.2pt x 1084.05pt>
+File: ../images/florestaPlantada/564.png Graphic file (type png)
+<use ../images/florestaPlantada/564.png>
+Package luatex.def Info: ../images/florestaPlantada/564.png  used on input line 
+86.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/florestaPlantada/class.png, id=264, 1927.2pt x 1084.05pt>
+File: ../images/florestaPlantada/class.png Graphic file (type png)
+<use ../images/florestaPlantada/class.png>
+Package luatex.def Info: ../images/florestaPlantada/class.png  used on input lin
+e 87.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/vegetacaoNatural/432.png, id=265, 1927.2pt x 1084.05pt>
+File: ../images/vegetacaoNatural/432.png Graphic file (type png)
+<use ../images/vegetacaoNatural/432.png>
+Package luatex.def Info: ../images/vegetacaoNatural/432.png  used on input line 
+92.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/vegetacaoNatural/564.png, id=266, 1927.2pt x 1084.05pt>
+File: ../images/vegetacaoNatural/564.png Graphic file (type png)
+<use ../images/vegetacaoNatural/564.png>
+Package luatex.def Info: ../images/vegetacaoNatural/564.png  used on input line 
+93.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+<../images/vegetacaoNatural/class.png, id=267, 1927.2pt x 1084.05pt>
+File: ../images/vegetacaoNatural/class.png Graphic file (type png)
+<use ../images/vegetacaoNatural/class.png>
+Package luatex.def Info: ../images/vegetacaoNatural/class.png  used on input lin
+e 94.
+(luatex.def)             Requested size: 154.78653pt x 87.0566pt.
+ [6<../images/pivosVeg/432.png><../images/pivosVeg/564.png><../images/pivosVeg/c
+lass.png><../images/agua/432.png><../images/agua/564.png><../images/agua/class.p
+ng><../images/soloSecoExp/432.png><../images/soloSecoExp/564.png><../images/solo
+SecoExp/class.png><../images/soloUmidoExp/432.png><../images/soloUmidoExp/564.pn
+g><../images/soloUmidoExp/class.png><../images/areaUrbana/432.png><../images/are
+aUrbana/564.png><../images/areaUrbana/class.png>] [7<../images/florestaPlantada/
+432.png><../images/florestaPlantada/564.png><../images/florestaPlantada/class.pn
+g><../images/vegetacaoNatural/432.png><../images/vegetacaoNatural/564.png><../im
+ages/vegetacaoNatural/class.png>] (./main.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 6128 strings out of 480878
+ 100000,383344 words of node,token memory allocated
+ 527 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 9 attribute, 53 glue_spec,
+ 7 attribute_list, 1 write nodes
+   avail lists: 2:644,3:91,4:33,5:71,6:12,7:643,9:223,10:3,11:61
+ 23246 multiletter control sequences out of 65536+200000
+ 29 fonts using 3589427 bytes
+ 40i,18n,45p,303b,477s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX/f
+onts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/l
+mbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
+Output written on main.pdf (7 pages, 13286895 bytes).
+
+PDF statistics: 307 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
