@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.9.3)  7 NOV 2020 21:54
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2020.9.3)  8 NOV 2020 01:24
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -635,10 +635,12 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 15.
 LaTeX Info: Redefining \pageref on input line 15.
 LaTeX Info: Redefining \nameref on input line 15.
+
+(./main.out) (./main.out)
 \@outlinefile=\write3
 
 \openout3 = main.out
-<titlepage.pdf, id=3, 597.23125pt x 845.1575pt>
+<titlepage.pdf, id=19, 597.23125pt x 845.1575pt>
 File: titlepage.pdf Graphic file (type pdf)
 <use titlepage.pdf>
 Package luatex.def Info: titlepage.pdf  used on input line 16.
@@ -647,7 +649,7 @@ File: titlepage.pdf Graphic file (type pdf)
 <use titlepage.pdf>
 Package luatex.def Info: titlepage.pdf  used on input line 16.
 (luatex.def)             Requested size: 597.22978pt x 845.15544pt.
-<titlepage.pdf, id=6, page=1, 597.23125pt x 845.1575pt>
+<titlepage.pdf, id=22, page=1, 597.23125pt x 845.1575pt>
 File: titlepage.pdf Graphic file (type pdf)
 <use titlepage.pdf, page 1>
 Package luatex.def Info: titlepage.pdf , page1 used on input line 16.
@@ -668,215 +670,225 @@ File: titlepage.pdf Graphic file (type pdf)
 <use titlepage.pdf, page 1>
 Package luatex.def Info: titlepage.pdf , page1 used on input line 16.
 (luatex.def)             Requested size: 597.25711pt x 845.19412pt.
+ [1
 
-[1
+<./titlepage.pdf>] (./main.toc)
+\tf@toc=\write4
 
-<./titlepage.pdf>]
-<../images/default.pdf, id=112, 1140.50027pt x 544.27277pt>
+\openout4 = main.toc
+ (./main.lof
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+("C:/Program Files/MiKTeX/tex/latex/amsfonts/umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@lof=\write5
+
+\openout5 = main.lof
+ [2{C:/Users/renan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<../images/default.pdf, id=167, 1140.50027pt x 544.27277pt>
 File: ../images/default.pdf Graphic file (type pdf)
 <use ../images/default.pdf>
-Package luatex.def Info: ../images/default.pdf  used on input line 19.
+Package luatex.def Info: ../images/default.pdf  used on input line 23.
 (luatex.def)             Requested size: 919.02109pt x 438.5996pt.
 
-Overfull \hbox (216.2381pt too wide) in paragraph at lines 19--20
+Overfull \hbox (216.2381pt too wide) in paragraph at lines 23--24
 [] [] 
  []
 
-<../images/rgb432.pdf, id=113, 1140.50027pt x 544.27277pt>
+[3<../images/default.pdf>]
+<../images/rgb432.pdf, id=216, 1140.50027pt x 544.27277pt>
 File: ../images/rgb432.pdf Graphic file (type pdf)
 <use ../images/rgb432.pdf>
-Package luatex.def Info: ../images/rgb432.pdf  used on input line 25.
+Package luatex.def Info: ../images/rgb432.pdf  used on input line 30.
 (luatex.def)             Requested size: 483.69687pt x 230.83533pt.
-<../images/rgb564.pdf, id=114, 1140.50027pt x 544.27277pt>
+<../images/rgb564.pdf, id=217, 1140.50027pt x 544.27277pt>
 File: ../images/rgb564.pdf Graphic file (type pdf)
 <use ../images/rgb564.pdf>
-Package luatex.def Info: ../images/rgb564.pdf  used on input line 26.
+Package luatex.def Info: ../images/rgb564.pdf  used on input line 31.
 (luatex.def)             Requested size: 483.69687pt x 230.83533pt.
-<../images/classification.pdf, id=115, 1140.50027pt x 544.27277pt>
+<../images/classification.pdf, id=218, 1140.50027pt x 544.27277pt>
 File: ../images/classification.pdf Graphic file (type pdf)
 <use ../images/classification.pdf>
-Package luatex.def Info: ../images/classification.pdf  used on input line 27.
+Package luatex.def Info: ../images/classification.pdf  used on input line 32.
 (luatex.def)             Requested size: 483.69687pt x 230.83533pt.
-[2{C:/Users/renan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}<../images/defau
-lt.pdf>] [3]
+ [4]
 Overfull \vbox (4.46445pt too high) has occurred while \output is active []
 
 
-[4<../images/rgb432.pdf><../images/rgb564.pdf><../images/classification.pdf>]
-<../images/print_432.png, id=310, 1927.2pt x 1084.05pt>
+[5<../images/rgb432.pdf><../images/rgb564.pdf><../images/classification.pdf>]
+<../images/print_432.png, id=359, 1927.2pt x 1084.05pt>
 File: ../images/print_432.png Graphic file (type png)
 <use ../images/print_432.png>
-Package luatex.def Info: ../images/print_432.png  used on input line 33.
+Package luatex.def Info: ../images/print_432.png  used on input line 38.
 (luatex.def)             Requested size: 483.69687pt x 272.07048pt.
-<../images/print_564.png, id=311, 1927.2pt x 1084.05pt>
+<../images/print_564.png, id=360, 1927.2pt x 1084.05pt>
 File: ../images/print_564.png Graphic file (type png)
 <use ../images/print_564.png>
-Package luatex.def Info: ../images/print_564.png  used on input line 38.
+Package luatex.def Info: ../images/print_564.png  used on input line 43.
 (luatex.def)             Requested size: 483.69687pt x 272.07048pt.
-<../images/print_classification.png, id=312, 1927.2pt x 1084.05pt>
+<../images/print_classification.png, id=361, 1927.2pt x 1084.05pt>
 File: ../images/print_classification.png Graphic file (type png)
 <use ../images/print_classification.png>
 Package luatex.def Info: ../images/print_classification.png  used on input line 
-43.
+48.
 (luatex.def)             Requested size: 483.69687pt x 272.07048pt.
 
-[5<../images/print_432.png><../images/print_564.png>] [6<../images/print_classif
+[6<../images/print_432.png><../images/print_564.png>] [7<../images/print_classif
 ication.png>]
-<../images/pivosVeg/432.png, id=328, 1927.2pt x 1084.05pt>
+<../images/pivosVeg/432.png, id=373, 1927.2pt x 1084.05pt>
 File: ../images/pivosVeg/432.png Graphic file (type png)
 <use ../images/pivosVeg/432.png>
-Package luatex.def Info: ../images/pivosVeg/432.png  used on input line 52.
+Package luatex.def Info: ../images/pivosVeg/432.png  used on input line 57.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/pivosVeg/564.png, id=329, 1927.2pt x 1084.05pt>
+<../images/pivosVeg/564.png, id=374, 1927.2pt x 1084.05pt>
 File: ../images/pivosVeg/564.png Graphic file (type png)
 <use ../images/pivosVeg/564.png>
-Package luatex.def Info: ../images/pivosVeg/564.png  used on input line 53.
+Package luatex.def Info: ../images/pivosVeg/564.png  used on input line 58.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/pivosVeg/class.png, id=330, 1927.2pt x 1084.05pt>
+<../images/pivosVeg/class.png, id=375, 1927.2pt x 1084.05pt>
 File: ../images/pivosVeg/class.png Graphic file (type png)
 <use ../images/pivosVeg/class.png>
-Package luatex.def Info: ../images/pivosVeg/class.png  used on input line 54.
+Package luatex.def Info: ../images/pivosVeg/class.png  used on input line 59.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/agua/432.png, id=331, 1927.2pt x 1084.05pt>
+<../images/agua/432.png, id=376, 1927.2pt x 1084.05pt>
 File: ../images/agua/432.png Graphic file (type png)
 <use ../images/agua/432.png>
-Package luatex.def Info: ../images/agua/432.png  used on input line 59.
+Package luatex.def Info: ../images/agua/432.png  used on input line 64.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/agua/564.png, id=332, 1927.2pt x 1084.05pt>
+<../images/agua/564.png, id=377, 1927.2pt x 1084.05pt>
 File: ../images/agua/564.png Graphic file (type png)
 <use ../images/agua/564.png>
-Package luatex.def Info: ../images/agua/564.png  used on input line 60.
+Package luatex.def Info: ../images/agua/564.png  used on input line 65.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/agua/class.png, id=333, 1927.2pt x 1084.05pt>
+<../images/agua/class.png, id=378, 1927.2pt x 1084.05pt>
 File: ../images/agua/class.png Graphic file (type png)
 <use ../images/agua/class.png>
-Package luatex.def Info: ../images/agua/class.png  used on input line 61.
+Package luatex.def Info: ../images/agua/class.png  used on input line 66.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/soloSecoExp/432.png, id=334, 1927.2pt x 1084.05pt>
+<../images/soloSecoExp/432.png, id=379, 1927.2pt x 1084.05pt>
 File: ../images/soloSecoExp/432.png Graphic file (type png)
 <use ../images/soloSecoExp/432.png>
-Package luatex.def Info: ../images/soloSecoExp/432.png  used on input line 66.
+Package luatex.def Info: ../images/soloSecoExp/432.png  used on input line 71.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/soloSecoExp/564.png, id=335, 1927.2pt x 1084.05pt>
+<../images/soloSecoExp/564.png, id=380, 1927.2pt x 1084.05pt>
 File: ../images/soloSecoExp/564.png Graphic file (type png)
 <use ../images/soloSecoExp/564.png>
-Package luatex.def Info: ../images/soloSecoExp/564.png  used on input line 67.
+Package luatex.def Info: ../images/soloSecoExp/564.png  used on input line 72.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/soloSecoExp/class.png, id=336, 1927.2pt x 1084.05pt>
+<../images/soloSecoExp/class.png, id=381, 1927.2pt x 1084.05pt>
 File: ../images/soloSecoExp/class.png Graphic file (type png)
 <use ../images/soloSecoExp/class.png>
-Package luatex.def Info: ../images/soloSecoExp/class.png  used on input line 68.
+Package luatex.def Info: ../images/soloSecoExp/class.png  used on input line 73.
 
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/soloUmidoExp/432.png, id=337, 1927.2pt x 1084.05pt>
+<../images/soloUmidoExp/432.png, id=382, 1927.2pt x 1084.05pt>
 File: ../images/soloUmidoExp/432.png Graphic file (type png)
 <use ../images/soloUmidoExp/432.png>
-Package luatex.def Info: ../images/soloUmidoExp/432.png  used on input line 73.
+Package luatex.def Info: ../images/soloUmidoExp/432.png  used on input line 78.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/soloUmidoExp/564.png, id=338, 1927.2pt x 1084.05pt>
+<../images/soloUmidoExp/564.png, id=383, 1927.2pt x 1084.05pt>
 File: ../images/soloUmidoExp/564.png Graphic file (type png)
 <use ../images/soloUmidoExp/564.png>
-Package luatex.def Info: ../images/soloUmidoExp/564.png  used on input line 74.
+Package luatex.def Info: ../images/soloUmidoExp/564.png  used on input line 79.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/soloUmidoExp/class.png, id=339, 1927.2pt x 1084.05pt>
+<../images/soloUmidoExp/class.png, id=384, 1927.2pt x 1084.05pt>
 File: ../images/soloUmidoExp/class.png Graphic file (type png)
 <use ../images/soloUmidoExp/class.png>
-Package luatex.def Info: ../images/soloUmidoExp/class.png  used on input line 75
+Package luatex.def Info: ../images/soloUmidoExp/class.png  used on input line 80
 .
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/areaUrbana/432.png, id=340, 1927.2pt x 1084.05pt>
+<../images/areaUrbana/432.png, id=385, 1927.2pt x 1084.05pt>
 File: ../images/areaUrbana/432.png Graphic file (type png)
 <use ../images/areaUrbana/432.png>
-Package luatex.def Info: ../images/areaUrbana/432.png  used on input line 80.
+Package luatex.def Info: ../images/areaUrbana/432.png  used on input line 85.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/areaUrbana/564.png, id=341, 1927.2pt x 1084.05pt>
+<../images/areaUrbana/564.png, id=386, 1927.2pt x 1084.05pt>
 File: ../images/areaUrbana/564.png Graphic file (type png)
 <use ../images/areaUrbana/564.png>
-Package luatex.def Info: ../images/areaUrbana/564.png  used on input line 81.
+Package luatex.def Info: ../images/areaUrbana/564.png  used on input line 86.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/areaUrbana/class.png, id=342, 1927.2pt x 1084.05pt>
+<../images/areaUrbana/class.png, id=387, 1927.2pt x 1084.05pt>
 File: ../images/areaUrbana/class.png Graphic file (type png)
 <use ../images/areaUrbana/class.png>
-Package luatex.def Info: ../images/areaUrbana/class.png  used on input line 82.
+Package luatex.def Info: ../images/areaUrbana/class.png  used on input line 87.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/florestaPlantada/432.png, id=343, 1927.2pt x 1084.05pt>
+<../images/florestaPlantada/432.png, id=388, 1927.2pt x 1084.05pt>
 File: ../images/florestaPlantada/432.png Graphic file (type png)
 <use ../images/florestaPlantada/432.png>
 Package luatex.def Info: ../images/florestaPlantada/432.png  used on input line 
-87.
+92.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/florestaPlantada/564.png, id=344, 1927.2pt x 1084.05pt>
+<../images/florestaPlantada/564.png, id=389, 1927.2pt x 1084.05pt>
 File: ../images/florestaPlantada/564.png Graphic file (type png)
 <use ../images/florestaPlantada/564.png>
 Package luatex.def Info: ../images/florestaPlantada/564.png  used on input line 
-88.
+93.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/florestaPlantada/class.png, id=345, 1927.2pt x 1084.05pt>
+<../images/florestaPlantada/class.png, id=390, 1927.2pt x 1084.05pt>
 File: ../images/florestaPlantada/class.png Graphic file (type png)
 <use ../images/florestaPlantada/class.png>
 Package luatex.def Info: ../images/florestaPlantada/class.png  used on input lin
-e 89.
+e 94.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/vegetacaoNatural/432.png, id=346, 1927.2pt x 1084.05pt>
+<../images/vegetacaoNatural/432.png, id=391, 1927.2pt x 1084.05pt>
 File: ../images/vegetacaoNatural/432.png Graphic file (type png)
 <use ../images/vegetacaoNatural/432.png>
 Package luatex.def Info: ../images/vegetacaoNatural/432.png  used on input line 
-94.
+99.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/vegetacaoNatural/564.png, id=347, 1927.2pt x 1084.05pt>
+<../images/vegetacaoNatural/564.png, id=392, 1927.2pt x 1084.05pt>
 File: ../images/vegetacaoNatural/564.png Graphic file (type png)
 <use ../images/vegetacaoNatural/564.png>
 Package luatex.def Info: ../images/vegetacaoNatural/564.png  used on input line 
-95.
+100.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
-<../images/vegetacaoNatural/class.png, id=348, 1927.2pt x 1084.05pt>
+<../images/vegetacaoNatural/class.png, id=393, 1927.2pt x 1084.05pt>
 File: ../images/vegetacaoNatural/class.png Graphic file (type png)
 <use ../images/vegetacaoNatural/class.png>
 Package luatex.def Info: ../images/vegetacaoNatural/class.png  used on input lin
-e 96.
+e 101.
 (luatex.def)             Requested size: 154.78653pt x 87.0566pt.
- [7<../images/pivosVeg/432.png><../images/pivosVeg/564.png><../images/pivosVeg/c
+ [8<../images/pivosVeg/432.png><../images/pivosVeg/564.png><../images/pivosVeg/c
 lass.png><../images/agua/432.png><../images/agua/564.png><../images/agua/class.p
 ng><../images/soloSecoExp/432.png><../images/soloSecoExp/564.png><../images/solo
 SecoExp/class.png><../images/soloUmidoExp/432.png><../images/soloUmidoExp/564.pn
 g><../images/soloUmidoExp/class.png><../images/areaUrbana/432.png><../images/are
 aUrbana/564.png><../images/areaUrbana/class.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 99.
- [8<../images/florestaPlantada/432.png><../images/florestaPlantada/564.png><../i
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+ [9<../images/florestaPlantada/432.png><../images/florestaPlantada/564.png><../i
 mages/florestaPlantada/class.png><../images/vegetacaoNatural/432.png><../images/
 vegetacaoNatural/564.png><../images/vegetacaoNatural/class.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 99.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (./main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 99.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 99.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  F2982E12D0B31BB2D978AFE49B8D2925;723.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 99.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: F2982E12D0B31BB2D978AFE49B8D2925;723.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13268 strings out of 480878
+ 13338 strings out of 480878
  100000,552014 words of node,token memory allocated
- 532 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 9 attribute, 54 glue_spec,
- 7 attribute_list, 1 write nodes
-   avail lists: 1:1,2:748,3:106,4:33,5:73,6:12,7:641,8:9,9:237,10:3,11:58
- 30180 multiletter control sequences out of 65536+200000
- 29 fonts using 3589427 bytes
- 38i,18n,45p,312b,494s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 556 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 dir, 5 glue, 4 kern, 1 glyph, 12 attribute, 55 gl
+ue_spec, 8 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 1:1,2:748,3:106,4:33,5:130,6:36,7:973,8:21,9:237,10:3,11:87
+ 30205 multiletter control sequences out of 65536+200000
+ 47 fonts using 4705979 bytes
+ 38i,18n,45p,319b,494s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX/f
 onts/type1/public/lm/lmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/l
 mbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-Output written on main.pdf (8 pages, 13362905 bytes).
+Output written on main.pdf (9 pages, 13375902 bytes).
 
-PDF statistics: 400 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 131072)
- 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 437 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 131072)
+ 33 words of extra memory for PDF output out of 10000 (max. 100000000)
 

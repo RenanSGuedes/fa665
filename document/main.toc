@@ -1,0 +1,5 @@
+\babel@toc {brazilian}{}
+\contentsline {section}{\numberline {1}Composição padrão}{3}{section.1}%
+\contentsline {section}{\numberline {2}Composições coloridas}{5}{section.2}%
+\contentsline {section}{\numberline {3}Capturas de tela}{6}{section.3}%
+\contentsline {section}{\numberline {4}Alvos sob diferentes perspectivas de tratamento}{8}{section.4}%
